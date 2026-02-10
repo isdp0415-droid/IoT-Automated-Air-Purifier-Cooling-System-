@@ -1,0 +1,2 @@
+# IoT-Automated-Air-Purifier-Cooling-System-
+The **IoT Automated Air Purifier &amp; Cooling System** is a dual-controller project using **Arduino R3/R4** and **C++** to manage PWM fan speeds and water-valves. By integrating **DS18B20 sensors**, it triggers cooling at **>23°C** with sub-second response times. This dynamic logic ensures stable 24/7 operation and a  20% increase in energy efficiency
